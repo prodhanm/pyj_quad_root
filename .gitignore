@@ -270,4 +270,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# miscellaneous
+*.json
+*.yaml
+*.yml
+*.toml
+.vscode 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,python,java
